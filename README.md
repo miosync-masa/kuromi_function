@@ -1,1 +1,3 @@
 # kuromi_function
+
+つかってるよ
